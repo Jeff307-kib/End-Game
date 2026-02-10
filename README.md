@@ -16,3 +16,5 @@ This is a fun React Project.
     User has to predict the word by selecting one character at a time. Each time user select the wrong character, a programming language would be eleminated. At last, Assembly would be eliminated. That's why this game is called Assembly: End-Game.
 
 [You can play the game via this vercel link](https://end-game-woad.vercel.app/)
+
+![Game Preview](public/preview.png)
